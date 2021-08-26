@@ -6,7 +6,9 @@ import co.unicauca.ordermanagement.domain.Order;
 /**
  * Estado Pagado
  * 
- * @author Jefferson Eduardo Campo y Hector Esteban Coral 
+ * @author Edwin Adrada Ruiz
+ * @author Carlos Enrique Hoyos
+ * @author Eliana Andrea Camayo
  */
 public class PayedStated extends OrderState{
 
